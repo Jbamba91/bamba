@@ -1,0 +1,12 @@
+remote: warning: File PSEP/Pacific Island Core Manual/220125-PI-Core-5-WEB.zip is 51.73 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: warning: File PSEP/Pacific Island Core Manual/220125-PI-Core-6-WEB.zip is 54.10 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: warning: File PSEP/Pacific Island Core Manual/LMS/220125-PI-Core-5-LMS.zip is 51.93 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: warning: File PSEP/Pacific Island Core Manual/LMS/220125-PI-Core-6-LMS.zip is 54.30 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: error: Trace: 7f1110db4eb0b19f9d4c57300a03e56229e63436732c7121733d48f12287719f
+remote: error: See http://git.io/iEPt8g for more information.
+remote: error: File NRCS CIG/WPTRC-Technical Report No 4_Oct 1 2021.pdf is 104.21 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: File QCCC video/University of Guam Presents- Reinforcing A Sustainable Guam (1).mp4 is 381.26 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+To https://github.com/aubreymoore/bamba.git
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/aubreymoore/bamba.git'
