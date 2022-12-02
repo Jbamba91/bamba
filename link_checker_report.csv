@@ -1,7 +1,7 @@
 page,uri,status,request-error
-2,https://github.com/aubreymoore/bamba/raw/main/Whatsapp%20pics/duane%20lee%20papaya%20problem.jpg,200,NA
+2,https://github.com/aubreymoore/bamba/raw/main/Whatsapp%20pics/duane%20lee%20papaya%20problem.jpg,NA,"HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=5)"
 2,https://github.com/aubreymoore/bamba/raw/main/Whatsapp%20pics/duane%20lee%20coconut%20tree%20problems.jpg,200,NA
-2,https://github.com/aubreymoore/bamba/raw/main/Whatsapp%20pics/Duane%20lee%20avocado%20problem.jpg,200,NA
+2,https://github.com/aubreymoore/bamba/raw/main/Whatsapp%20pics/Duane%20lee%20avocado%20problem.jpg,NA,"HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=5)"
 2,../../../../media/aubrey/PATRIOT/jesse/December%202020%20FCAG%20bags/December%202020%20curbside%20mixed%20local%20produce%20bag.jpg,NA,Invalid URL '../../../../media/aubrey/PATRIOT/jesse/December%202020%20FCAG%20bags/December%202020%20curbside%20mixed%20local%20produce%20bag.jpg': No schema supplied. Perhaps you meant http://../../../../media/aubrey/PATRIOT/jesse/December%202020%20FCAG%20bags/December%202020%20curbside%20mixed%20local%20produce%20bag.jpg?
 2,../../../../media/aubrey/PATRIOT/jesse/Whatsapp%20pics/tommy%20pests%20on%20citrus.jpg,NA,Invalid URL '../../../../media/aubrey/PATRIOT/jesse/Whatsapp%20pics/tommy%20pests%20on%20citrus.jpg': No schema supplied. Perhaps you meant http://../../../../media/aubrey/PATRIOT/jesse/Whatsapp%20pics/tommy%20pests%20on%20citrus.jpg?
 2,../../../../media/aubrey/PATRIOT/jesse/Whatsapp%20pics/steve%20whatsapp%20mango%20problem.jpg,NA,Invalid URL '../../../../media/aubrey/PATRIOT/jesse/Whatsapp%20pics/steve%20whatsapp%20mango%20problem.jpg': No schema supplied. Perhaps you meant http://../../../../media/aubrey/PATRIOT/jesse/Whatsapp%20pics/steve%20whatsapp%20mango%20problem.jpg?
