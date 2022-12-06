@@ -4,7 +4,7 @@
 
 <https://github.com/aubreymoore/bamba/raw/main/latest/Letter_to_Dean_1.pdf> bad
 
-<https://github.com/aubreymoore/bamba/raw/main/latest/Mail_JESSE_P_BAMBA_DPHSS.mhtml>
+<https://github.com/aubreymoore/bamba/raw/main/latest/Mail_JESSE_P_BAMBA_DPHSS.mhtml> bad
 
 <https://github.com/aubreymoore/bamba/raw/main/latest/Re_SARE_PROPOSAL_NOTIFICATION.eml>
 
