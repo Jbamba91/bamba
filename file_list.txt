@@ -25,8 +25,7 @@ CORE Reviews schedule sep 2022/September 21 core workshop/CORE Review quiz for D
 CORE Reviews schedule sep 2022/September 21 core workshop/Math activity.doc
 CORE Reviews schedule sep 2022/September 21 core workshop/Math activity.pdf
 CORE Reviews schedule sep 2022/index.html
-ComprehensiveStatement .doc
-ComprehensiveStatement .pdf
+ComprehensiveStatement.doc
 ComprehensiveStatement.pdf
 ComprehensiveStatement_AMedits.doc
 ComprehensiveStatement_AMedits.pdf
@@ -82,7 +81,9 @@ EIPM tomato grant/Post Workshop Evaluation Results_IPM and Tomato Virus Workshop
 EIPM tomato grant/Results_workshop pre and post test assesment.xlsx
 Farmer focus group june 2021/Farmer focus group 2021 hyatt.pdf
 Farmer focus group june 2021/Head_Start_Agriculture_Guam (Proof 2 29_08_2022).pdf
+Ltr Verification of Service Jesse Bamba 22113.pdf
 NRCS CIG/Package_ALL_new (1) cig.pdf
+NRCS CIG/WPTRC-Tech-Rept-4-ebook.pdf
 PSEP/Pacific Island Core Manual/220125-PI-Core-1-WEB.zip
 PSEP/Pacific Island Core Manual/220125-PI-Core-1-WEB/content/assets/-ZhsLBbK1WlySDv3_n2eM0dzD5aXf1We-.jpg
 PSEP/Pacific Island Core Manual/220125-PI-Core-1-WEB/content/assets/-t0OJOJ5RCF8KQ9q_transcoded-GeFrgyzdwy4HYhJx-PI-PestManagement-VO-13-BiologicalControls.mp3
@@ -657,6 +658,7 @@ july 2020 dphss bags/FCAG flyer for dphss.docx
 july 2020 dphss bags/Letter of success from dphss.docx
 link_checker.ipynb
 link_checker_report.csv
+link_checker_report.xlsx
 notes.md
 oversized.txt
 resident instruction/al 340/AL-340 Syllabus Spring 2022.pdf
@@ -667,6 +669,7 @@ resident instruction/al 485/BAMBA_JESSE_0013927_22-SP_AL48501_UOG-Instructor-Rep
 resident instruction/al 485/BAMBA_JESSE_0013927_22-SP_AL485L01_UOG-Instructor-Report.pdf
 urls.csv
 urls.ipynb
+urls.xlsx
 workshops/IPM tomato workshop  7-13-22/IPM and Tomato Virus Workshop Agenda.docx
 workshops/IPM tomato workshop  7-13-22/IPM and Tomato Virus Workshop Agenda_draft (1).docx
 workshops/IPM tomato workshop  7-13-22/IPM and Tomato Virus Workshop Agenda_draft (1).pdf
