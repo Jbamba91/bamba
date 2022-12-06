@@ -1,8 +1,8 @@
 ### Latest
 
-<https://github.com/aubreymoore/bamba/raw/main/latest/DPHSS_letter_to_Jesse_Bamba.png>
+<https://github.com/aubreymoore/bamba/raw/main/latest/DPHSS_letter_to_Jesse_Bamba.png> ok
 
-<https://github.com/aubreymoore/bamba/raw/main/latest/Letter_to_Dean_1.pdf>
+<https://github.com/aubreymoore/bamba/raw/main/latest/Letter_to_Dean_1.pdf> bad
 
 <https://github.com/aubreymoore/bamba/raw/main/latest/Mail_JESSE_P_BAMBA_DPHSS.mhtml>
 
