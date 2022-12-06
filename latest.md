@@ -4,11 +4,18 @@
 
 <https://github.com/aubreymoore/bamba/raw/main/latest/Letter_to_Dean_1.pdf>
 
-<https://github.com/aubreymoore/bamba/raw/main/latest/Mail - JESSE P BAMBA - DPHSS.mhtml>
-<https://github.com/aubreymoore/bamba/raw/main/latest/Re_ SARE PROPOSAL NOTIFICATION (1).eml>
-<https://github.com/aub reymoore/bamba/raw/main/latest/Screenshot Core manual 1.png>
-<https://github.com/aubreymoore/bamba/raw/main/latest/Screenshot Core manual 2.png>
-<https://github.com/aubreymoore/bamba/raw/main/latest/Screenshot Core manual 3.png>
-<https://github.com/aubreymoore/bamba/raw/main/latest/Screenshot Core manual 5.png>
-<https://github.com/aubreymoore/bamba/raw/main/latest/WPTRC Plant Path Search (2).pdf>
-<https://github.com/aubreymoore/bamba/raw/main/latest/WSARE prposal notification.png>
+<https://github.com/aubreymoore/bamba/raw/main/latest/Mail_JESSE_P_BAMBA_DPHSS.mhtml>
+
+<https://github.com/aubreymoore/bamba/raw/main/latest/Re_SARE_PROPOSAL_NOTIFICATION.eml>
+
+<https://github.com/aub reymoore/bamba/raw/main/latest/Screenshot_Core_manual_1.png>
+
+<https://github.com/aubreymoore/bamba/raw/main/latest/Screenshot_Core_manual_2.png>
+
+<https://github.com/aubreymoore/bamba/raw/main/latest/Screenshot_Core_manual_3.png>
+
+<https://github.com/aubreymoore/bamba/raw/main/latest/Screenshot_Core_manual_5.png>
+
+<https://github.com/aubreymoore/bamba/raw/main/latest/WPTRC_Plant_Path_Search.pdf>
+
+<https://github.com/aubreymoore/bamba/raw/main/latest/WSARE_proposal_notification.png>
