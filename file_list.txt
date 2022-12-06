@@ -656,6 +656,16 @@ file_list.txt
 july 2020 dphss bags/DPHSS coop letter.pdf
 july 2020 dphss bags/FCAG flyer for dphss.docx
 july 2020 dphss bags/Letter of success from dphss.docx
+latest/DPHSS letter to Jesse Bamba.png
+latest/Letter to Dean 1.pdf
+latest/Mail - JESSE P BAMBA - DPHSS.mhtml
+latest/Re_ SARE PROPOSAL NOTIFICATION (1).eml
+latest/Screenshot Core manual 1.png
+latest/Screenshot Core manual 2.png
+latest/Screenshot Core manual 3.png
+latest/Screenshot Core manual 5.png
+latest/WPTRC Plant Path Search (2).pdf
+latest/WSARE prposal notification.png
 link_checker.ipynb
 link_checker_report.csv
 link_checker_report.xlsx
