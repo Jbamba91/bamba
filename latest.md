@@ -2,12 +2,8 @@
 
 <https://github.com/aubreymoore/bamba/raw/main/latest/DPHSS_letter_to_Jesse_Bamba.png>
 
+<https://github.com/aubreymoore/bamba/raw/main/latest/Letter_to_Dean_1.pdf>
 
-
-[https://github.com/aubreymoore/bamba/raw/main/latest/DPHSS letter to Jesse Bamba.png]
-(https://github.com/aubreymoore/bamba/raw/main/latest/DPHSS letter to Jesse Bamba.png)
-
-<https://github.com/aubreymoore/bamba/raw/main/latest/Letter to Dean 1.pdf>
 <https://github.com/aubreymoore/bamba/raw/main/latest/Mail - JESSE P BAMBA - DPHSS.mhtml>
 <https://github.com/aubreymoore/bamba/raw/main/latest/Re_ SARE PROPOSAL NOTIFICATION (1).eml>
 <https://github.com/aub reymoore/bamba/raw/main/latest/Screenshot Core manual 1.png>
