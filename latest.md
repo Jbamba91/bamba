@@ -1,6 +1,7 @@
 ### Latest
 
-https://github.com/aubreymoore/bamba/raw/main/latest/DPHSS letter to Jesse Bamba.png
+[https://github.com/aubreymoore/bamba/raw/main/latest/DPHSS letter to Jesse Bamba.png]
+(https://github.com/aubreymoore/bamba/raw/main/latest/DPHSS letter to Jesse Bamba.png)
 
 <https://github.com/aubreymoore/bamba/raw/main/latest/Letter to Dean 1.pdf>
 <https://github.com/aubreymoore/bamba/raw/main/latest/Mail - JESSE P BAMBA - DPHSS.mhtml>
