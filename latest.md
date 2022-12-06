@@ -8,7 +8,7 @@
 
 <https://github.com/aubreymoore/bamba/raw/main/latest/Re_SARE_PROPOSAL_NOTIFICATION.eml>
 
-<https://github.com/aub reymoore/bamba/raw/main/latest/Screenshot_Core_manual_1.png>
+<https://github.com/aubreymoore/bamba/raw/main/latest/Screenshot_Core_manual_1.png>
 
 <https://github.com/aubreymoore/bamba/raw/main/latest/Screenshot_Core_manual_2.png>
 
