@@ -9,6 +9,6 @@ Additional documents as required by current [Reappointment Procedures](REAPPOINT
 * [Annual increment evaluation letter from the Dean](final_docs/Annual_increment_2020-2021.pdf)
 * [CFES report prepared by faculty for Dean/Director for increment evaluation](final_docs/CFES_report_20201207_20211207.pdf)
 * Student evaluations
-    * [AL485 SP22](final_docs/AL485_SP22.PDF)
-    * [AL485L SP22](final_docs/AL485L_SP22.PDF)
+    * [AL485 SP22](final_docs/AL485_SP22.pdf)
+    * [AL485L SP22](final_docs/AL485L_SP22.pdf)
 * [5-year plan to achieve tenure](final_docs/5_year_plan.pdf)
