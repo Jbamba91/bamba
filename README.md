@@ -12,3 +12,4 @@ Additional documents as required by current [Reappointment Procedures](REAPPOINT
     * [AL485 SP22](final_docs/AL485_SP22.pdf)
     * [AL485L SP22](final_docs/AL485L_SP22.pdf)
 * [5-year plan to achieve tenure](final_docs/5_year_plan.pdf)
+* [Reappointment committee report](final_docs/reappointment_committee_report.pdf)
